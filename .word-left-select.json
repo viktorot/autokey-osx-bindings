@@ -1,5 +1,5 @@
 {
-    "usageCount": 0, 
+    "usageCount": 22, 
     "omitTrigger": false, 
     "prompt": false, 
     "description": "word-left-select", 
@@ -14,8 +14,8 @@
     "hotkey": {
         "hotKey": "<left>", 
         "modifiers": [
-            "<shift>", 
-            "<super>"
+            "<alt>", 
+            "<shift>"
         ]
     }, 
     "modes": [

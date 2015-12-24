@@ -14,7 +14,7 @@
     "hotkey": {
         "hotKey": "w", 
         "modifiers": [
-            "<alt>"
+            "<super>"
         ]
     }, 
     "modes": [

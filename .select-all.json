@@ -1,5 +1,5 @@
 {
-    "usageCount": 0, 
+    "usageCount": 6, 
     "omitTrigger": false, 
     "prompt": false, 
     "description": "select-all", 
@@ -14,7 +14,7 @@
     "hotkey": {
         "hotKey": "a", 
         "modifiers": [
-            "<alt>"
+            "<super>"
         ]
     }, 
     "modes": [

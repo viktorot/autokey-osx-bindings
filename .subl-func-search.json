@@ -1,5 +1,5 @@
 {
-    "usageCount": 0, 
+    "usageCount": 5, 
     "omitTrigger": false, 
     "prompt": false, 
     "description": "subl-func-search", 
@@ -14,7 +14,7 @@
     "hotkey": {
         "hotKey": "r", 
         "modifiers": [
-            "<alt>"
+            "<super>"
         ]
     }, 
     "modes": [

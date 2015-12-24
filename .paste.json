@@ -14,7 +14,7 @@
     "hotkey": {
         "hotKey": "v", 
         "modifiers": [
-            "<alt>"
+            "<super>"
         ]
     }, 
     "modes": [

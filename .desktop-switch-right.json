@@ -1,8 +1,8 @@
 {
-    "usageCount": 19, 
+    "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "minimize", 
+    "description": "desktop-switch-right", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,9 +12,10 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "h", 
+        "hotKey": "<right>", 
         "modifiers": [
-            "<alt>"
+            "<ctrl>", 
+            "<super>"
         ]
     }, 
     "modes": [

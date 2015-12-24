@@ -14,8 +14,8 @@
     "hotkey": {
         "hotKey": "z", 
         "modifiers": [
-            "<alt>", 
-            "<shift>"
+            "<shift>", 
+            "<super>"
         ]
     }, 
     "modes": [

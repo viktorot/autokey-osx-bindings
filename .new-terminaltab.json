@@ -1,5 +1,5 @@
 {
-    "usageCount": 1, 
+    "usageCount": 7, 
     "omitTrigger": false, 
     "prompt": false, 
     "description": "new-terminaltab", 
@@ -14,8 +14,8 @@
     "hotkey": {
         "hotKey": "t", 
         "modifiers": [
-            "<alt>", 
-            "<shift>"
+            "<shift>", 
+            "<super>"
         ]
     }, 
     "modes": [

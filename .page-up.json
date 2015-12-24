@@ -1,5 +1,5 @@
 {
-    "usageCount": 8, 
+    "usageCount": 41, 
     "omitTrigger": false, 
     "prompt": false, 
     "description": "page-up", 
@@ -14,7 +14,7 @@
     "hotkey": {
         "hotKey": "<up>", 
         "modifiers": [
-            "<alt>"
+            "<super>"
         ]
     }, 
     "modes": [

@@ -2,7 +2,7 @@
     "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "new", 
+    "description": "desktop-switch-left", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,8 +12,9 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "n", 
+        "hotKey": "<left>", 
         "modifiers": [
+            "<ctrl>", 
             "<super>"
         ]
     }, 

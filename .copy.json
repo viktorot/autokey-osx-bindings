@@ -1,5 +1,5 @@
 {
-    "usageCount": 0, 
+    "usageCount": 1, 
     "omitTrigger": false, 
     "prompt": false, 
     "description": "copy", 
@@ -14,7 +14,7 @@
     "hotkey": {
         "hotKey": "c", 
         "modifiers": [
-            "<alt>"
+            "<super>"
         ]
     }, 
     "modes": [

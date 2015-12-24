@@ -1,8 +1,8 @@
 {
-    "usageCount": 0, 
+    "usageCount": 29, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "new", 
+    "description": "window-switch", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,7 +12,7 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "n", 
+        "hotKey": "<tab>", 
         "modifiers": [
             "<super>"
         ]

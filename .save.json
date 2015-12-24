@@ -1,5 +1,5 @@
 {
-    "usageCount": 5, 
+    "usageCount": 20, 
     "omitTrigger": false, 
     "prompt": false, 
     "description": "save", 
@@ -14,7 +14,7 @@
     "hotkey": {
         "hotKey": "s", 
         "modifiers": [
-            "<alt>"
+            "<super>"
         ]
     }, 
     "modes": [

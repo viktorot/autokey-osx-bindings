@@ -14,7 +14,7 @@
     "hotkey": {
         "hotKey": "o", 
         "modifiers": [
-            "<alt>"
+            "<super>"
         ]
     }, 
     "modes": [

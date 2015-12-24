@@ -1,23 +1,23 @@
 {
-    "usageCount": 1, 
+    "usageCount": 1,
     "abbreviation": {
-        "wordChars": "[\\w]", 
-        "abbreviations": [], 
-        "immediate": false, 
+        "wordChars": "[\\w]",
+        "abbreviations": [],
+        "immediate": false,
         "ignoreCase": false, 
-        "backspace": true, 
+        "backspace": true,
         "triggerInside": false
-    }, 
-    "modes": [], 
-    "title": "osx-autokey-mappings", 
+    },
+    "modes": [],
+    "title": "osx-autokey-mappings",
     "hotkey": {
-        "hotKey": null, 
+        "hotKey": null,
         "modifiers": []
-    }, 
+    },
     "filter": {
-        "regex": null, 
+        "regex": null,
         "isRecursive": false
-    }, 
-    "type": "folder", 
+    },
+    "type": "folder",
     "showInTrayMenu": false
 }
