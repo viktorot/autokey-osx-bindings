@@ -1,8 +1,8 @@
 {
-    "usageCount": 7, 
+    "usageCount": 108, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "new-terminaltab", 
+    "description": "open-script", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,21 +12,17 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "t", 
+        "hotKey": "o", 
         "modifiers": [
-            "<shift>", 
             "<super>"
         ]
     }, 
-    "modes": [
-        3
-    ], 
+    "modes": [], 
     "showInTrayMenu": false, 
-    "matchCase": false, 
     "filter": {
         "regex": null, 
         "isRecursive": false
     }, 
-    "type": "phrase", 
-    "sendMode": "kb"
+    "type": "script", 
+    "store": {}
 }

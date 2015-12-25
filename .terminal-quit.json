@@ -1,8 +1,8 @@
 {
-    "usageCount": 15, 
+    "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "open", 
+    "description": "terminal-quit", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,8 +12,9 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "o", 
+        "hotKey": "q", 
         "modifiers": [
+            "<shift>", 
             "<super>"
         ]
     }, 

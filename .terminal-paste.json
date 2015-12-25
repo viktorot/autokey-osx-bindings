@@ -2,7 +2,7 @@
     "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "close-terminal-tab", 
+    "description": "terminal-paste", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,7 +12,7 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "w", 
+        "hotKey": "v", 
         "modifiers": [
             "<shift>", 
             "<super>"

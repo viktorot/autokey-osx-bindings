@@ -1,8 +1,8 @@
 {
-    "usageCount": 15, 
+    "usageCount": 0, 
     "omitTrigger": false, 
     "prompt": false, 
-    "description": "open", 
+    "description": "terminal-copy", 
     "abbreviation": {
         "wordChars": "[\\w]", 
         "abbreviations": [], 
@@ -12,8 +12,9 @@
         "triggerInside": false
     }, 
     "hotkey": {
-        "hotKey": "o", 
+        "hotKey": "c", 
         "modifiers": [
+            "<shift>", 
             "<super>"
         ]
     }, 
